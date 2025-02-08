@@ -7,5 +7,7 @@ int main()
     int x = 1;//主分支提交
     int a = 100;
     a++;
+    int z = 200;
+    z++;
     return 0;
 }
